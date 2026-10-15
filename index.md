@@ -2,9 +2,8 @@ Privacy Policy
 
 Effective Date: July 15, 2026
 
-Privacy Policy for LightWeights
-
-LightWeights ("the App", "we", "our", or "us") is a workout tracking application developed by an independent developer based in India. We value your privacy and are committed to protecting your personal information.
+Privacy Policy for SuperBuilt
+SuperBuilt ("the App", "we", "our", or "us") is a workout tracking application developed by an independent developer based in India. We value your privacy and are committed to protecting your personal information.
 
 This Privacy Policy explains what information we collect, how we use it, and the choices available to you.
 
@@ -61,7 +60,7 @@ Display advertisements in the free version
 Respond to support requests
 Offline Functionality
 
-LightWeights works offline.
+SuperBuilt works offline.
 
 Workout data is stored locally on your device.
 
@@ -132,7 +131,7 @@ Children's Privacy
 
 (Recommended version)
 
-LightWeights is not directed to children under the age of 13.
+SuperBuilt is not directed to children under the age of 13.
 
 We do not knowingly collect personal information from children under 13.
 
